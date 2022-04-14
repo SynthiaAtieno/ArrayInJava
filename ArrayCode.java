@@ -1,5 +1,5 @@
 public class ArrayCode{
-    public staic void main(String[]args)
+    public static void main(String[]args)
     {
         int []arr = new int[5];
         arr[0]=6;
